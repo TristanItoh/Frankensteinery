@@ -1,6 +1,7 @@
 # Frankensteinery
 
 An organ transplant operation-style arcade game made in Roblox.
+<img width="1147" height="645" alt="Screenshot 2026-02-22 110811" src="https://github.com/user-attachments/assets/85fcdb8f-fcfe-4d29-82ad-4e20a201c879" />
 
 ## Game
 
@@ -23,3 +24,4 @@ You are Dr. Frankenstein, and you have a monster to experiment on... Swap its or
 - Physical movement, grabbing, and function controls
 - Laptop mountain within as a display
 - Custom decorations themed to game
+<img width="476" height="646" alt="Screenshot 2026-02-22 110819" src="https://github.com/user-attachments/assets/989e4e09-873b-4dda-9340-c472a2b4b3e6" />
